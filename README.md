@@ -8,7 +8,7 @@
 後端架構：Controller(RESTFULAPI) - SERVICE - DAO - MYSQL
 前端：HTML + CSS + JS
 
-基於springboot crud的應用以及整體框架的規範
+目的：基於springboot crud的應用以及整體框架的規範
 
 查詢功能：
 <img width="1346" height="427" alt="image" src="https://github.com/user-attachments/assets/9412cb75-644c-45da-a983-67b5025064db" />
