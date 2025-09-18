@@ -7,3 +7,5 @@
 
 後端架構：Controller(RESTFULAPI) - SERVICE - DAO - MYSQL
 前端：HTML + CSS + JS
+
+<img width="1394" height="433" alt="image" src="https://github.com/user-attachments/assets/e8c9a2bb-85c4-4367-befb-7d4c2a4d193a" />
